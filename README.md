@@ -13,6 +13,11 @@ In this project, the student had to make use of Python to explore data related t
 
 ### Files used
 
+The following csv files were used in the project.
+washington.csv
+new_york_city.csv
+chicago.csv
+
 
 ### Credits
 
