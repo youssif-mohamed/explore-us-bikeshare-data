@@ -168,6 +168,9 @@ def user_stats(df, city):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 def display_data(df):
+    """
+    Display 5 rows of individual trip data
+    """
     var = 1
     while True:
         view_data = input('\nWould you like to view 5 rows of individual trip data? Enter yes or no\n')
